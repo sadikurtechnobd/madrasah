@@ -1,0 +1,213 @@
+@media all and (max-width:1200px){
+	.ad_box {
+		margin-bottom: 70px;
+	}
+}
+@media all and (max-width:991px){
+	.admission-form-content {
+		display: block;
+		padding: 40px 0;
+		text-align:center;
+	}
+	.admission-form-text {
+		padding: 30px 0;
+	}
+	.top-bar-left ul li {
+		padding-right: 0;
+	}
+	.logo-content-left h3 {
+	font-size: 20px;
+	}
+	.logo-content-right h3 {
+		font-size: 20px;
+	}
+}
+@media all and (min-width:768px){
+	.menubar-area{
+		display:block !important;
+	}
+	.mobile-menu-area{
+		display:none !important;
+	}
+}
+@media all and (max-width:767px){
+	.hero-slider-content.owl-carousel .owl-item img {
+		height: auto !important;
+	}
+	.ad_box:last-child {
+		margin-bottom: 0;
+	}
+	.nav-tabs .nav-link {
+		border: 0;
+	}
+	.copyright-area {
+		text-align: center;
+	}
+	.social-icon {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding-bottom:15px;
+	}
+	.logo-content-right {
+		display: none;
+	}
+	.logo_c {
+		order: -1;
+	}
+	.logo-content-center img {
+		width: 130px;
+	}
+	.logo-content-left {
+		float: none;
+		text-align: center;
+		margin-top: 16px;
+	}
+	.top-bar-left ul {
+		justify-content: Center;
+	}
+	.top-bar-right {
+		display: flex;
+		justify-content: center;
+	}
+	.top-socia ul {
+		margin-top: 15px;
+	}
+	.language-change {
+		margin-top: 15px;
+	}
+	.header-logo {
+		position: relative;
+	}
+	.logo-content-center img {
+		width: 100px;
+	}
+	.logo-content-left h3 {
+		font-size: 18px;
+	}
+	.logo-content-left p {
+		font-size: 14px;
+	}
+	.main-menu ul {
+		display: block;
+	}
+	.main-menu > ul > li.active {
+		background-color: transparent;
+	}
+	.main-menu > ul > li {
+		border-left: 0;
+	}
+	.main-menu > ul > li:hover {
+		background-color: transparent;
+		transition: 0.3s;
+	}
+	.main-menu > ul > li:last-child {
+		border-right: 0;
+	}
+	.menubar-area{
+		display:none;
+	}
+	.main-menu > ul > li {
+		display: block;
+	}
+	.main-menu .dropdown1 {
+		margin-left: 100px;
+		display:none;
+	}
+	.main-menu ul li a {
+		display: block;
+	}
+	.main-menu {
+		text-align: center;
+	}
+	.nav-icon {
+		display: block;
+	}
+}
+@media all and (max-width:650px){
+
+}
+@media all and (max-width:575px){
+
+}
+@media all and (max-width:450px){
+	.about-us-title h3 {
+		font-size: 18px;
+	}
+	.about-us-title p {
+		padding: 10px 10px;
+		font-size: 14px;
+		text-align: justify;
+	}
+	.teacher-name {
+		padding-left: 0;
+		margin-top: 20px;
+	}
+	.teacher-name ul li {
+		font-size: 15px;
+	}
+	.teacher-content p {
+		font-size: 14px;
+		text-align: justify;
+	}
+	.teacher-information {
+		padding: 0 10px;
+	}
+	.teacher-information {
+		padding: 0 10px;
+	}
+	.section-padding {
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+	.box-text h3 {
+		font-size: 20px;
+	}
+	.box-text p {
+		font-size: 14px;
+	}
+	.admission-form-text h3 {
+		font-size: 20px;
+	}
+	.admission-form-text p {
+		font-size: 14px;
+	}
+	.contact-us-btn a {
+		font-size: 14px;
+		padding: 0 26px;
+	}
+	.education-tabs-nav ul li a img {
+		width: 28px;
+	}
+	.education-tabs-nav ul li a span {
+		font-size: 14px;
+	}
+	.nav-link {
+		padding: 7px 10px;
+	}
+	.container.tab-pane h3 {
+		font-size: 20px;
+	}
+	.container.tab-pane p {
+		font-size: 14px;
+	}
+	.container.tab-pane {
+		padding-left: 10px;
+		padding-right: 10px;
+		text-align: justify;
+	}
+	.sidebar-content-item {
+		margin-bottom: 0;
+	}
+	.top-bar-left ul li {
+		font-size: 14px;
+		padding: 0 2%;
+	}
+	.top-bar-left ul li i {
+		margin-right: 5px;
+		font-size: 12px;
+	}
+	.top-bar-left ul li a {
+		font-size: 14px;
+	}
+}
